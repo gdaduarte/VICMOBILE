@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{DEDAE009-280A-419E-9D66-7622C4FFFC2F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="vicmobile/vicmobilePage.xaml.cs">
+    <Files>
+      <File FileName="vicmobile/vicmobilePage.xaml" Line="39" Column="1" />
+      <File FileName="vicmobile/vicmobilePage.xaml.cs" Line="40" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.vicmobile.Droid PreferredExecutionTarget="Android.b72bb241" />
+  <AuthorInfo Name="Vic Sistemas Processamento de Dados Ltda." Email="suporte@webconsignado.com.br" Copyright="Vic Systems 2017" Company="Vic Systems" Trademark="Vic Systems" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.vicmobile.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.3C87D255-DA0F-4FF8-BE6C-E06EB5ADA93A" />
+</Properties>
